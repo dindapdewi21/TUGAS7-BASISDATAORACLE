@@ -1,6 +1,7 @@
 # TUGAS7-BASISDATAORACLE
 
 1. Buat Update
+
   a. Update Kasir
   ![DataKasir](https://user-images.githubusercontent.com/45527370/147399752-2968e8f4-7df2-48e9-86d1-f42283684e38.png)
   ![UpdateKasir1](https://user-images.githubusercontent.com/45527370/147399762-e16c2967-8bd9-4871-805d-f4cd44612ace.png)

@@ -38,6 +38,7 @@
   ![selesaisupp](https://user-images.githubusercontent.com/45527370/147399920-771d3f02-3d76-4a4b-a34b-04969d942b02.png)
 
 2. Data Transaksi
+
   a.Tidak Menggunakan Rupiah
   
   ![DataTransaksi](https://user-images.githubusercontent.com/45527370/147399937-0502b012-da7a-48ad-bb7b-cf85992e4775.png)

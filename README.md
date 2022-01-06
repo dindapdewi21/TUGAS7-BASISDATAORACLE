@@ -41,9 +41,9 @@
   
   a. Insert Data Transaksi
   ![Screenshot (66)](https://user-images.githubusercontent.com/45527370/148333699-56844c60-c20a-4246-bb0f-6f249fd6508e.png)
-  ![grabilla Uh5948](https://user-images.githubusercontent.com/45527370/148359986-d2c0cc1c-4b78-40c6-a512-f3e4bb87daea.png)
+  ![grabilla q10428](https://user-images.githubusercontent.com/45527370/148361689-57b30db6-3183-4a8a-a1ec-d78f25f7e778.png)
   ![berhasiltambah3](https://user-images.githubusercontent.com/45527370/148334150-11d97cb1-4a5b-4537-ae1d-d8da0228234e.png)
-  ![tambahtrans](https://user-images.githubusercontent.com/45527370/148333820-01f90112-eb63-40a5-ae19-bf95f087aa12.png)
+  ![grabilla Uh9952](https://user-images.githubusercontent.com/45527370/148361797-d75329ad-9d44-44c5-ae37-1fc11565fee8.png)
 
   b.Tidak Menggunakan Rupiah
   

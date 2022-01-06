@@ -41,7 +41,7 @@
   
   a. Insert Data Transaksi
   ![Screenshot (66)](https://user-images.githubusercontent.com/45527370/148333699-56844c60-c20a-4246-bb0f-6f249fd6508e.png)
-  ![tambahtrans1](https://user-images.githubusercontent.com/45527370/148333796-916e429a-5047-446e-bd1d-d2f25b64b232.png)
+  ![grabilla Uh5948](https://user-images.githubusercontent.com/45527370/148359986-d2c0cc1c-4b78-40c6-a512-f3e4bb87daea.png)
   ![berhasiltambah3](https://user-images.githubusercontent.com/45527370/148334150-11d97cb1-4a5b-4537-ae1d-d8da0228234e.png)
   ![tambahtrans](https://user-images.githubusercontent.com/45527370/148333820-01f90112-eb63-40a5-ae19-bf95f087aa12.png)
 

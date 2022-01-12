@@ -144,7 +144,7 @@ include 'fungsi_rupiah.php';
 			<div class="item form-group">
 				<label class="col-form-label col-md-3 col-sm-3 label-align">NAMA_TRANSAKSI</label>
 				<div class="col-md-6 col-sm-6">
-          			<input type="text" name="NAMA_TRANSAKSI" class="form-control" required>
+          				<input type="text" name="NAMA_TRANSAKSI" class="form-control" required>
 			  </div>
 			</div>
 			<div class="item form-group">
